@@ -2,15 +2,15 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="4.2333331mm"
-   height="4.2333336mm"
-   viewBox="0 0 4.2333331 4.2333336"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666667 8.4666668"
    version="1.1"
    id="svg1"
    sodipodi:docname="favicon.svg"
-   inkscape:export-filename="favicon.svg"
-   inkscape:export-xdpi="960.00006"
-   inkscape:export-ydpi="960.00006"
+   inkscape:export-filename="favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -18,46 +18,38 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#ffffff"
+     pagecolor="#6293cd"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      inkscape:zoom="14.749999"
-     inkscape:cx="7.9661022"
-     inkscape:cy="8.0000005"
+     inkscape:cx="12.644069"
+     inkscape:cy="18.847459"
      inkscape:window-width="1200"
      inkscape:window-height="781"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#6293cdff" />
   <defs
      id="defs1" />
   <g
      id="layer1"
-     transform="translate(-56.473638,-96.115926)">
-    <rect
-       style="fill:#6293cd;fill-opacity:1;stroke-width:0.3;stroke-dasharray:1.124, 0.281001"
-       id="rect1"
-       width="4.2333331"
-       height="4.2333331"
-       x="56.473637"
-       y="96.115929"
-       ry="0"
-       rx="0" />
+     transform="translate(-59.845955,-98.627226)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Chalkduster;-inkscape-font-specification:'Chalkduster, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.3;stroke-dasharray:1.124, 0.281001"
-       x="58.597717"
-       y="99.380157"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Chalkduster;-inkscape-font-specification:'Chalkduster, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#f9f9f9;stroke-width:0.3;stroke-dasharray:1.124, 0.281001"
+       x="63.940128"
+       y="105.44266"
        id="text1"><tspan
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:Chalkduster;-inkscape-font-specification:'Chalkduster, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.3"
-         x="58.597717"
-         y="99.380157">R</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Chalkduster;-inkscape-font-specification:'Chalkduster, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.3"
+         x="63.940128"
+         y="105.44266">R</tspan></text>
   </g>
 </svg>
